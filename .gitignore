@@ -1,5 +1,6 @@
 materials/*.jpg
 materials/*.png
 models/original/obj/*
-*/export/*
+**/export/*
+**/export*/*
 *.blend1
